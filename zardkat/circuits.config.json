@@ -1,0 +1,13 @@
+[
+  {
+    "name": "ImrozCircuit",
+    "protocol": "groth16",
+    "circuit": "ImrozCircuit/circuit.circom",
+    "input": "ImrozCircuit/input.json",
+    "wasm": "ImrozCircuit/out/circuit.wasm",
+    "zkey": "ImrozCircuit/out/ImrozCircuit.zkey",
+    "vkey": "ImrozCircuit/out/ImrozCircuit.vkey",
+    "r1cs": "ImrozCircuit/out/ImrozCircuit.r1cs",
+    "beacon": "0102030405060708090a0b0c0d0e0f101112131415161718191a1b1c1d1e1f"
+  }
+]
